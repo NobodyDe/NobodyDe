@@ -52,20 +52,6 @@ const developer = {
 }
 ```
 
----
-
-## 📊 GitHub Metrics (Estável)
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=30363d"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=github_dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=30363d"/>
-
-</div>
-
----
-
 ## 🚀 Current Focus
 
 * ⚡ Scalable APIs with NestJS + Prisma
